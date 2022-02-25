@@ -9,7 +9,7 @@ function App() {
   //variable with your apiKey
   const apiKey = "5535627b";
 
-  //State to hold movie data
+  //State to hold movie data 
   const [movie, setMovie] = React.useState(null);
 
   //Function to getMovies
